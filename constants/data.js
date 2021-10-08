@@ -2,7 +2,7 @@ const userData = {
   githubUsername: "anguyen8613",
   name: "Alvin Nguyen",
   designation: "Full-Stack Developer",
-  avatarUrl: "/avatar2.png",
+  avatarUrl: "/static/avatar2.png",
   email: "anguyen8613@gmail.com",
   phone: "657-334-9818",
   address: "Stanton, California, USA",
@@ -10,17 +10,17 @@ const userData = {
     {
       title: "Fire-Movies",
       link: "https://fire-movies.vercel.app/",
-      imgUrl: "/fire-movies.png"
+      imgUrl: "/static/fire-movies.png"
     },
     {
       title: "Rendezvous",
       link: "https://rendezvous-kohl.vercel.app/",
-      imgUrl: "/rendezvous.png"
+      imgUrl: "/static/rendezvous.png"
     },
     {
       title: "Pets-Social",
       link: "https://social-pet-friends.netlify.app/",
-      imgUrl: "/pets-social.png"
+      imgUrl: "/static/pets-social.png"
     }
   ],
   about: {
