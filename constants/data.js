@@ -66,7 +66,7 @@ const userData = {
     }
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1s88reEQz9sqAK7tAoVmJfN8Bv-4j5trU/view",
+    "https://drive.google.com/file/d/1X5i8SeefLp3HrIJt7gcX6CFJtVczRwaq/view",
   socialLinks: {
     linkedin: "https://www.linkedin.com/in/anguyen8613/",
     github: "https://github.com/anguyen8613"
